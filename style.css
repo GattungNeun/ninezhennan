@@ -65,6 +65,12 @@ body {
   box-shadow: 0 0 20px rgba(167, 198, 255, 0.4);
 }
 
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5rem;
+}
+
 footer {
   margin-top: 2.5rem;
   font-size: 0.75rem;
